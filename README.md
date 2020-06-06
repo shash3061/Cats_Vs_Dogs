@@ -6,4 +6,4 @@ Used techniques like Data/Image Augmentation to augment data like zooming in, mo
 
 Then used Transfer Learning of the inception v3 model to load in the pre-trained weights of the model.
 
-Achieved a Training Accuracy of 94.70%
+Achieved a Training Accuracy of 94.70% and a
